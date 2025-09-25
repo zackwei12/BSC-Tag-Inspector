@@ -15,3 +15,16 @@ popup.js – popup logic and translation handling
 content.js – scans the DOM for BSC tags
 
 database.js – BSC tag → name mapping
+
+
+Installation
+
+Download the ZIP file and extract it to a folder on your computer.
+
+In Chrome, navigate to chrome://extensions.
+
+Enable Developer mode (toggle in the top right).
+
+Click Load unpacked and select the extracted project folder.
+
+The BSC Tag Translator icon will appear in your Chrome toolbar.
